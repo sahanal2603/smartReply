@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613677476771",
+    "project_id": "text-recognition-app-abe40",
+    "storage_bucket": "text-recognition-app-abe40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613677476771:android:1f39b8c5ce6813e9704816",
+        "android_client_info": {
+          "package_name": "com.example.textrecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613677476771-vstehmsks2c1l6rc227rrdfoo0oaubbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXsEfJOCmEfohgFckIzNyfphulbquyUo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613677476771-vstehmsks2c1l6rc227rrdfoo0oaubbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
